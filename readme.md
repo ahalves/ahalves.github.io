@@ -1,8 +1,6 @@
-## if statements
-```cpp
-gay = true;
-if (gay)
-{
-	cout << "sussy" << endl;
-}
-```
+<details>
+  <summary>Printing to the console</summary>
+  ```cpp
+  cout << "Hello, world!" << endl;
+  ```
+</details>
