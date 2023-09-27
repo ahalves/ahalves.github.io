@@ -1,6 +1,4 @@
-# Adam's C++ docs
-## A compilation of all the C++ I've learnt from Computer Science.
-
+## if statements
 ```cpp
 while(true)
 {
