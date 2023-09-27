@@ -1,7 +1,8 @@
 ## if statements
 ```cpp
-while(true)
+gay = true;
+if (gay)
 {
-  cout << "deez" << endl;
+	cout << "sussy" << endl;
 }
 ```
